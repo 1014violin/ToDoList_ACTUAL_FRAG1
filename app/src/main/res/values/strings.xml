@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoListFrag1</string>
+    <string name="add_button">Add</string>
+    <string name="add_item_hint">The Add item hint</string>
+
+
+
+</resources>
